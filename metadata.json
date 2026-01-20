@@ -1,0 +1,5 @@
+{
+  "name": "Spatial Server Monitor",
+  "description": "An immersive 3D spatial computing dashboard for monitoring server infrastructure health using React Three Fiber.",
+  "requestFramePermissions": []
+}

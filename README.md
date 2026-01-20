@@ -2,6 +2,11 @@
 
 A futuristic, 3D spatial dashboard for visualizing server infrastructure health and performance in real-time.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cf5bee0-e1f3-42dd-9278-41f97ebc56a0" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb86629b-9d79-43eb-b83e-0cb9175683e1" />
+
 ## 🚀 Features
 
 - **3D Visualization:** Interactive 3D scene displaying a cluster of 60 servers.
@@ -24,7 +29,7 @@ A futuristic, 3D spatial dashboard for visualizing server infrastructure health 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone spatial-ops-dashboard
    cd spatial-ops-dashboard
    ```
 
@@ -41,7 +46,7 @@ A futuristic, 3D spatial dashboard for visualizing server infrastructure health 
    ```
 
 4. **Open in browser:**
-   Navigate to `http://localhost:5173` (or the port shown in your terminal).
+   Navigate to `http://localhost:3000`.
 
 ## 🎮 Controls
 
